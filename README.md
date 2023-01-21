@@ -13,7 +13,7 @@ $ curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent
 you can following this command:
 
 ```
-PlugInstall
+:PlugInstall
 
 ```
 
